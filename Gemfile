@@ -1,3 +1,3 @@
-source :rubygems
-gem "thin", "~> 1.2.11"
-gem "sinatra", "~> 1.2.0"
+source "https://rubygems.org"
+gem "thin"
+gem "sinatra"
